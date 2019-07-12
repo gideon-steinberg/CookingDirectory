@@ -1,0 +1,81 @@
+{
+	"soup":{
+		"ingredients":[
+			"a small cream bottle",
+			"2 boxes of stock",
+			"onions or garlic (optional)",
+			"olive oil",
+			"salt",
+			"some veges for example",
+			"leek"
+			"mushrooms"
+			"tomatoes",
+			"capsicum",
+		],
+		"process":[
+			"(optional) chop the onions or garlic",
+			"turn the stove on on 4/6 (medium high)",
+			"put oil in the pot and wait for that to heat up",
+			"(optional) put the onions or garlic in the pot",
+			"wash and chop the veges and put them into a bowl",
+			"once the onions or garlic (if they exist) have cooked for 5 mintues or so put in the other veges",
+			"add salt",
+			"let cook for 15 minutes",
+			"add stock",
+			"stir every 20 minutes for like 2 hours",
+			"once ready turn off the heat",
+			"blend the soup till there are few large pieces",
+			"add cream and stir"
+		],
+		"equipment" : [
+			"good cutting knife (eg a chefs knife)",
+			"cutting board",
+			"bowl for temporary storage",
+			"big pot",
+			"wooden stiring spoon",
+			"stick blender"
+		]
+	},
+	"large veges with rice (accidentally vegan)":{
+		"ingredients":[
+			"onions or garlic (optional)",
+			"olive oil",
+			"salt",
+			"herbs and spices",
+			"cornflour",
+			"some veges for example",
+			"leek"
+			"mushrooms"
+			"tomatoes",
+			"capsicum",
+			"two cans of tomatoes in puree",
+			"two cans of black beans",
+			"a can of peas (or frozen peas)"
+		],
+		"process":[
+			"(optional) chop the onions or garlic",
+			"turn the stove on on 4/6 (medium high)",
+			"put oil in the pot and wait for that to heat up",
+			"(optional) put the onions or garlic in the pot",
+			"wash and chop the veges and put them into a bowl",
+			"once the onions or garlic (if they exist) have cooked for 5 mintues or so put in the other veges",
+			"add salt",
+			"let cook for 15 minutes",
+			"add herbs and spices",
+			"let cook for 15 minutes",
+			"add cans of stuff",
+			"stir every 20 minutes for like 2 hours",
+			"once ready turn off the heat",
+			"add a good amount of cornflour until there is no more liquid",
+			"boil some rice and serve with the rice on the bottom"
+		],
+		"equipment" : [
+			"good cutting knife (eg a chefs knife)",
+			"cutting board",
+			"bowl for temporary storage",
+			"big pot",
+			"wooden stiring spoon",
+			"can opener"
+		]
+	}
+}

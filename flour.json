@@ -1,0 +1,53 @@
+{
+	"pancakes":{
+		"ingredients":[
+			"1 cup flour",
+			"1 teaspoon baking powder",
+			"1 teaspoon salt",
+			"1 tablespoon sugar",
+			"1 egg",
+			"1 tablespoon olive oil",
+			"1 cup milk"
+		],
+		"process":[
+			"put dry ingredients into a bowl",
+			"stir",
+			"turn stove on 4/6 (medium high) with a frying pan",
+			"put wet ingredients into a bowl",
+			"stir",
+			"once hot put half into the frying pan",
+			"wait 5 mintues and flip",
+			"wait 5 minutes and put onto plate",
+			"repeat"
+		],
+		"equipment" : [
+			"bowl",
+			"cup measure",
+			"teaspoon and tablespoon measures",
+			"wooden stiring spoon",
+			"frypan",
+			"stove",
+			"heat safe flipper thingy",
+		]
+	},
+	"bread":{
+		"ingredients":[
+			"315 ml water",
+			"1 tablespoon olive oil",
+			"1 and a half teaspoons salt",
+			"1 tablespoon sugar",
+			"3 cups bread flour",
+			"1 tablespoon yeast"
+		],
+		"process":[
+			"put into bread maker in that order",
+			"press go on setting that takes 3 hours 20 minutes",
+			"wait and eat"
+		],
+		"equipment" : [
+			"cup measure",
+			"teaspoon and tablespoon measures",
+			"bread maker"
+		]
+	}
+}
